@@ -1,3 +1,0 @@
-User-agent: *
-Disallow: 
-Sitemap: https://gaffordspressurewashing.com/sitemap.xml
